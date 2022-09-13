@@ -21,7 +21,7 @@ I built a normal tic tac toe game that two clients can play against each other, 
 
 ### `Game Screens`
 - Server Screen (pre-start the game)
-<img width="600" alt="server_init" src="https://user-images.githubusercontent.com/63257625/189980307-92d92231-5b60-4ceb-b451-7e0227cf8d4d.png">
+<img width="400" alt="server_init" src="https://user-images.githubusercontent.com/63257625/189980307-92d92231-5b60-4ceb-b451-7e0227cf8d4d.png">
 
 - Add Client Screen
 <img width="600" alt="choose color" src="https://user-images.githubusercontent.com/63257625/189980506-b05372b8-1c3c-4126-8d85-c57583a9b85e.png">
